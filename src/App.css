@@ -1,0 +1,9 @@
+/* index.css */
+
+select {
+  margin-top: 0%;
+  width: 200px; /* Cambia el ancho del selector */
+  height: 30px; /* Cambia la altura del selector */
+}
+
+
